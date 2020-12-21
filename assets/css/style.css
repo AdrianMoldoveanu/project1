@@ -1,3 +1,9 @@
 body {
-    background-image: url("assets/images/gaming.jpg");
+    background: url("../images/gaming.jpg") no-repeat center center fixed;
+    font-family: "Roboto", sans-serif;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   color: #fafafa;
 }

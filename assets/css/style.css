@@ -13,6 +13,14 @@ border:1px solid #fafafa;
 padding:.5em;
 margin-bottom:1em;}
 
+.navbar-brand {
+    font-size: 250%;
+}
+
+.nav-item {
+    font-size: 120%;
+}
+
 .container h1 {
     text-align: center;
     padding: 5%;
@@ -32,6 +40,24 @@ margin-bottom:1em;}
        padding-top: 100%;
        background: #fafafa;
       }
-img {
-    
-}      
+ #social-fb:hover {
+     color: #3B5998;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+ #social-em:hover {
+     color: #f39c12;
+ }
+
+ .container i {
+     justify-content: center;
+ }
+
+ #social a {
+     color: rgb(77, 231, 115);
+     padding: 30px;
+ }

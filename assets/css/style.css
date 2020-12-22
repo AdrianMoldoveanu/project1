@@ -71,6 +71,12 @@ ul li {
     padding: 20px;
     font-weight: 500;
 }
+#pros i {
+    color: greenyellow;
+}
+#cons i {
+    color: red;
+}
 h3 {
     color: #12e4f3;
 }

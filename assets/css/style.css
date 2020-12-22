@@ -59,6 +59,20 @@ margin-bottom:1em;}
     clear: both;
     text-align: center;
     font-size: 25px;
-    color: #f39c12;
+    color: #12e4f3;
 }
+
+ul {
+    letter-spacing: 1px;
+    padding: 20px;
+    font-weight: 500;
+}
+ul li {
+    padding: 20px;
+    font-weight: 500;
+}
+h3 {
+    color: #12e4f3;
+}
+
 

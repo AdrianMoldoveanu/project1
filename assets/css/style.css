@@ -8,7 +8,7 @@ body {
    color: #fafafa;
 }
 
-div,nav,header,footer{
+section,nav,header,footer{
 border:1px solid #fafafa;
 padding:.5em;
 margin-bottom:1em;}
@@ -92,5 +92,4 @@ h3 {
 #social p {
     color: greenyellow;
 }
-
 

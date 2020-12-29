@@ -13,12 +13,17 @@ border:1px solid #fafafa;
 padding:.5em;
 margin-bottom:1em;}
 
+#navbarNav a {
+    color: #fafafa;
+}  
 .navbar-brand {
     font-size: 200%;
+    
 }
 
 .nav-item {
     font-size: 120%;
+    
 }
 
 .container h1 {
@@ -37,7 +42,7 @@ margin-bottom:1em;}
  }
 
  #social a {
-     color: rgb(77, 231, 115);
+     color:orange;
      padding: 30px;
  }
 
@@ -46,7 +51,7 @@ margin-bottom:1em;}
     clear: both;
     text-align: center;
     font-size: 25px;
-    color: #12e4f3;
+    color: orange;
 }
 
 ul {
@@ -59,13 +64,13 @@ ul li {
     font-weight: 500;
 }
 #pros i {
-    color: greenyellow;
+    color: rgb(67, 247, 112);
 }
 #cons i {
     color: red;
 }
 h3 {
-    color: #12e4f3;
+    color: orange;
 }
 
 .checked {
@@ -73,10 +78,10 @@ h3 {
 }
 
 .heading h1 {
-    color: #12e4f3;
+    color: orange;
 }
 
 #social p {
-    color: greenyellow;
+   color: orange;
 }
 

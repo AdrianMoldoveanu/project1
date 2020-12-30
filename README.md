@@ -121,7 +121,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any new added mice reviews.
         1. In the future a Newsletter page will be added which will be located at the bottom of the page.
         2. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        3. Untill the Newsletter page arriver the user can fill a contact form.
+        3. Untill the Newsletter page arrives the user can fill a contact form.
 ## Credits
 
 ### Code

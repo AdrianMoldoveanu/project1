@@ -42,7 +42,7 @@ margin-bottom:1em;}
  }
 
  #social a {
-     color:orange;
+     color:yellow;
      padding: 30px;
  }
 
@@ -51,7 +51,7 @@ margin-bottom:1em;}
     clear: both;
     text-align: center;
     font-size: 25px;
-    color: orange;
+    color: yellow;
 }
 
 ul {
@@ -70,18 +70,18 @@ ul li {
     color: red;
 }
 h3 {
-    color: orange;
+    color: yellow;
 }
 
 .checked {
-  color: orange;
+  color: yellow;
 }
 
 .heading h1 {
-    color: orange;
+    color: yellow;
 }
 
 #social p {
-   color: orange;
+   color: yellow;
 }
 

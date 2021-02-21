@@ -25,6 +25,13 @@
         2. As a Frequent User, I want to check to see if there are any new reviews about fingertip mice.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any new added mice reviews.
 
+     ### Further Testing
+
+     -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+     -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7 & Nokia5.
+     -   A large amount of testing was done to ensure that all pages were linking correctly.
+     -   My girlfriend and coworkers were asked to review the site and documentation to point out any bugs and/or user experience issues
+    
     ### Design 
 
        #### Colour Scheme
@@ -38,7 +45,15 @@
        #### Imagery 
 
            - As a background image I choose a gaming related colorful picture which blends well with the theme of the website. For the image i choose clean pictures with enough resolution to not appear pixelated on any screen size.
- 
+     
+    ### Wireframes
+
+     -   Home Page Wireframe - [View](https://i.imgur.com/TEdn3VN.png)
+     
+     -   Razer Viper Mini Wireframe - [View](https://i.imgur.com/GyDvQre.png)
+
+     -   Contact Me Page Wireframe - [View](https://i.imgur.com/1xB8uH7.png)
+
  ## Features
 
 -   Responsive on all device sizes 
@@ -66,6 +81,9 @@
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+
 
 ## Testing
 
@@ -88,11 +106,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of every page there is social media link and the contact form link.
+        2. At the bottom of every page there are social media links.
 
     3. As a First Time Visitor, I want to  to locate their social media links to see their followings on social media to determine how trusted and known they are.
         1. The contact form is locotaed in the navigation bar.
-        2. At the bottom of each page the user can locate social media links and a link to the contact form.
+        2. At the bottom of each page the user can locate social media links.
 
     #### Returning Visitor Goals
 
@@ -105,7 +123,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The navigation bar clearly highlights the "Contact" Page.
         2. Here they can fill out the form on the page or are told that alternatively they can message me on social media.
-        3. The footer contains links to the organisations Facebook, Steam and Contact page 
+        3. The footer contains links to the organisations Facebook, Steam and LinkedIn. 
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
     #### Frequent User Goals
@@ -122,6 +140,52 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. In the future a Newsletter page will be added which will be located at the bottom of the page.
         2. At the bottom of every page their is a footer which content is consistent throughout all pages.
         3. Untill the Newsletter page arrives the user can fill a contact form.
+
+## Deployment
+
+### GitHub Pages
+
+ The project was deployed to GitHub Pages using the following steps...
+
+ 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+ 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+ 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+ 4. Under "Source", click the dropdown called "None" and select "Master Branch".
+ 5. The page will automatically refresh.
+ 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+ By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+ 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+ 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+ 3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+ 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+ 2. Under the repository name, click "Clone or download".
+ 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+ 4. Open Git Bash
+ 5. Change the current working directory to the location where you want the cloned directory to be made.
+ 6. Type `git clone`, and then paste the URL you copied in Step 3.
+ 
+ ```
+ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ ```
+
+ 7. Press Enter. Your local clone will be created.
+
+ ```
+ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ > Cloning into `CI-Clone`...
+ > remote: Counting objects: 10, done.
+ > remote: Compressing objects: 100% (8/8), done.
+ > remove: Total 10 (delta 1), reused 10 (delta 1)
+ > Unpacking objects: 100% (10/10), done.
+ ```
+
 ## Credits
 
 ### Code

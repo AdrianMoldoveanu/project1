@@ -26,11 +26,29 @@
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any new added mice reviews.
 
      ### Further Testing
-
-     -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-     -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7 & Nokia5.
-     -   A large amount of testing was done to ensure that all pages were linking correctly.
-     -   My girlfriend and coworkers were asked to review the site and documentation to point out any bugs and/or user experience issues
+     
+     1.My girlfriend and coworkers were asked to review the site and documentation to point out any bugs and/or user experience issues.
+       I asked them to focus on the following areas:
+      
+      - Navigation bar:
+        Expected -Links in the navigation bar are expected to open in the same page when the user clicks on any of them.
+        Testing - Tested the feature by asking them to click on every link.
+        Result - The feature acted as expected and every link opened in the same page.
+      -Image anchor links:
+        Expected -When an image is clicked it is expected for the specific mouse page to open in the same tab
+        Testing - Tested the feature by asking them to click on each of the three images.
+        Result - The feature acted as expected and every image link opened the specific mouse page in the same page.
+      -Social links:
+        Expected - Social links in the footer are expected to open in a new page when the user clicks on any of them.
+        Testing - Tested the feature by asking them to click on every  social link.
+        Result - The feature acted as expected and every social link opened in a new page.
+ 
+     2.  The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+     
+     3.  The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7 & Nokia5.
+     
+     4.  A large amount of testing was done to ensure that all pages were linking correctly.
+        
     
     ### Design 
 
